@@ -1,3 +1,5 @@
 # RandomPasswordGen
 
-Yea I was bored, def not the best but it's something
+I used this to learn how to do certain things, can be imporved a lot your choice
+
+
